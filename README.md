@@ -66,7 +66,7 @@ Insights:
 
 ## Inventory & Production Analysis
 
-![Inventory](Images/Images_&_Production.png)
+![Inventory](Images/Inventory_&_Production.png)
 
 Insights:
 
