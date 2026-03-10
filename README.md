@@ -40,7 +40,7 @@ This dashboard helps answer:
 
 ## Executive Dashboard
 
-![Overview](images/overview_dashboard.png)
+![Overview](Images/Dashboard_Overview.png)
 
 Key KPIs:
 
@@ -54,7 +54,7 @@ Key KPIs:
 
 ## Supplier Performance Analysis
 
-![Supplier](images/supplier_analysis.png)
+![Supplier](Images/Supplier.png)
 
 Insights:
 
@@ -66,7 +66,7 @@ Insights:
 
 ## Inventory & Production Analysis
 
-![Inventory](images/inventory_dashboard.png)
+![Inventory](Images/Images_&_Production.png)
 
 Insights:
 
@@ -78,7 +78,7 @@ Insights:
 
 ## Shipment & Logistics Analysis
 
-![Shipment](images/shipment_dashboard.png)
+![Shipment](Images/Shipment.png)
 
 Insights:
 
@@ -90,7 +90,7 @@ Insights:
 
 ## Customer & Revenue Analysis
 
-![Customer](images/customer_dashboard.png)
+![Customer](Images/Customer.png)
 
 Insights:
 
